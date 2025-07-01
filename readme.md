@@ -26,10 +26,14 @@ This project implements a **Face Recognition Attendance System** using Python, O
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
    ```
+3. Install IP Webcam cam on your android smartphone.
+   - Install from play store.
+   - Open app and click Start Server.
+   - Now connect the ip address showing on your smartphone to the collect_data.py file and recognise.pydef file.
 
-3. Add the required files:
+5. Add the required files:
    - Haar Cascade XML file (`haarcascade_frontalface_default.xml`) for face detection.
    - Trained model (`fianl_model.h5`) for face recognition.
    - Data files (`images` and `labels`) in the appropriate directory.
