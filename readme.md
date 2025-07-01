@@ -76,5 +76,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The open-source community for providing resources and support.
 
 ## Author
-[Sandeep Gopw]
+[Sandeep Gope]
 [sandeepgope19@gmail.com]
