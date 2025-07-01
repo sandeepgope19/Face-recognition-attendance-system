@@ -1,0 +1,7 @@
+Python 3.8 or later
+OpenCV
+Keras
+NumPy
+urllib
+os
+pickle
